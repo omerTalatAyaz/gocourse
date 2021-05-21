@@ -1,1 +1,1 @@
-# gocourse
+# Includes general go topics
